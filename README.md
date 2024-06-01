@@ -1,4 +1,4 @@
-# HDL Bits Solutions Repository 🛠️
+# 🛠️ HDL Bits Solutions Repository   <img src="https://hdlbits.01xz.net/images/logo270.png" alt="Logo" width="30" height="30">
 
 Welcome to the **HDL Bits Solutions** repository! Stucked while solving HDL Bits problems. This space is dedicated to sharing solutions for the exercises on the HDL Bits website.
 
