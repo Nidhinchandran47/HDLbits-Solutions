@@ -38,6 +38,13 @@ The repository is organized to make it easy to navigate and find the solutions y
 ├── .gitignore
 └── README.md
 ```
+<details>
+  <summary>Click to expand/collapse</summary>
+  
+  - Item 1
+  - Item 2
+  - Item 3
+</details>
 
 
 
