@@ -1,21 +1,23 @@
 # HDL Bits Solutions Repository 🛠️
 
-Welcome to the **HDL Bits Solutions** repository! This space is dedicated to sharing solutions for the exercises on the HDL Bits website, helping enthusiasts and learners to compare and learn from various approaches to hardware description language (HDL) problems.
+Welcome to the **HDL Bits Solutions** repository! Stucked while solving HDL Bits problems. This space is dedicated to sharing solutions for the exercises on the HDL Bits website.
 
 ## Table of Contents 📋
 - [About HDL Bits](#about-hdl-bits)
 - [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
-  - [How to Find Solutions](#how-to-find-solutions)
-  - [How to Run Solutions](#how-to-run-solutions)
-  - [How to Contribute](#how-to-contribute)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About HDL Bits 🧠
-**HDL Bits** is a website containing a collection of small circuit design exercises for practicing digital hardware design using Verilog Hardware Description Language (HDL). The exercises range from tutorial-style problems for beginners to increasingly challenging tasks that test and improve your circuit design skills.
+**HDL Bits** is a website containing a collection of small circuit design exercises for practicing digital hardware design using Verilog Hardware Description Language (HDL). The exercises range from tutorial-style problems for beginners to increasingly challenging tasks that test and improve your circuit design skills. Each problem requires you to design a small circuit in Verilog. HDLBits gives you immediate feedback on the circuit module you submit. Your circuit is checked for correctness by simulating with a set of test vectors and comparing it to our reference solution.
+
+### How to use HDLBits ▶️
+1. Use any browser and go to [HDLBits site](https://hdlbits.01xz.net/wiki/Main_Page).
+2. Choose a problem: [Browse the problem set](https://hdlbits.01xz.net/wiki/Problem_sets) or go to the [first problem](https://hdlbits.01xz.net/wiki/Step_one).
+3. Write a solution in Verilog.
+4. Submit, simulate, and debug if necessary
+
+If you want to track your progress or move to another browser, create a username and password so you can log in from elsewhere.🔄
 
 ## Repository Structure 🏗️
 The repository is organized to make it easy to navigate and find the solutions you need:
@@ -59,36 +61,8 @@ Navigate to the `challenges` directory to find solutions to specific HDL Bits ex
 - `solution_verilog.v`: Solution written in Verilog.
 - `testbench.sv`: Testbench to verify the solution.
 
-### How to Run Solutions ▶️
-Use the provided scripts to compile and run the solutions:
-```bash
-cd challenges/challenge_01
-../../scripts/compile_design.sh solution_verilog.v
-../../scripts/run_simulation.sh testbench.sv
-```
-
-### How to Contribute 🤝
-We welcome contributions! If you have a different solution or an improvement, please follow these steps:
-1. **Fork the repository**: Create your own copy on GitHub.
-2. **Create a branch**: `git checkout -b my-solution`
-3. **Make your changes**: Add your solution and update the documentation.
-4. **Commit your changes**: `git commit -m 'Add solution for challenge 01'`
-5. **Push to your branch**: `git push origin my-solution`
-6. **Open a pull request**: We'll review and merge your changes.
-
-## Contributing 🌟
-Your contributions help make this repository a valuable resource for everyone. To contribute:
-1. **Fork the repository**.
-2. **Create a new branch** for your feature or bugfix.
-3. **Commit your changes**.
-4. **Push your branch**.
-5. **Submit a pull request**.
-
-## License 📄
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact 📧
-Have questions, suggestions, or feedback? We'd love to hear from you! Reach out at [your-email@example.com](mailto:your-email@example.com).
+Have questions, suggestions, or feedback? We'd love to hear from you! Reach out at [nidhinchandran470@gmail.com](mailto:nidhinchandran470@gmail.com).
 
 ---
 
