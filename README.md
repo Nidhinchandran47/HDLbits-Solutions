@@ -39,20 +39,7 @@ The repository is organized to make it easy to navigate and find the solutions y
 └── README.md
 ```
 
-## Getting Started 🚀
-To get started with this repository, follow these steps:
 
-### Prerequisites 🛠️
-Make sure you have the following tools installed:
-- Verilog/SystemVerilog compiler (e.g., Synopsys VCS, Cadence Xcelium, ModelSim)
-- A simulator (e.g., Synopsys VCS, Cadence Xcelium, ModelSim)
-- Git
-
-### Cloning the Repository 🔄
-```bash
-git clone https://github.com/yourusername/hdl-bits-solutions.git
-cd hdl-bits-solutions
-```
 
 ## Usage 📘
 ### How to Find Solutions 🔍
