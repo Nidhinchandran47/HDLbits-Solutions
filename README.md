@@ -21,38 +21,34 @@ If you want to track your progress or move to another browser, create a username
 
 ## Repository Structure 🏗️
 The repository is organized to make it easy to navigate and find the solutions you need:
-```
-├── challenges
-│   ├── challenge_01
-│   │   ├── problem_statement.md
-│   │   ├── solution_verilog.v
-│   │   └── testbench.sv
-│   ├── challenge_02
-│   │   ├── problem_statement.md
-│   │   ├── solution_verilog.v
-│   │   └── testbench.sv
-│   └── [additional challenges]
-├── scripts
-│   ├── run_simulation.sh
-│   └── compile_design.sh
-├── .gitignore
-└── README.md
-```
+
 <details>
-  <summary>Click to expand/collapse</summary>
+  <summary>Getting Started</summary>
   
-  - Item 1
-  - Item 2
-  - Item 3
+  - [Step One](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Getting%20Started/Step%20One)
+  - [Zero](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Getting%20Started/Zero)
+    
 </details>
+<details>
+  <summary>Verilog Language</summary>
 
+  - <details>
+    <summary> <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics">Basic</a> </summary>
 
+    - [Simple wire](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Simple%20wire)
+    - [Four wires](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Four%20wires)
+    - [Inverter](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Inverter)
+    
+  </details>
+  
+</details>
 
 ## Usage 📘
 ### How to Find Solutions 🔍
 Navigate to the `challenges` directory to find solutions to specific HDL Bits exercises. Each challenge directory contains:
 - `problem_statement.md`: The original problem statement.
 - `solution_verilog.v`: Solution written in Verilog.
+- `output_wavwform.png`: Simulated result's waveform.
 - `testbench.sv`: Testbench to verify the solution.
 
 ## Contact 📧
