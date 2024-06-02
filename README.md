@@ -22,21 +22,20 @@ If you want to track your progress or move to another browser, create a username
 ## Repository Structure 🏗️
 The repository is organized to make it easy to navigate and find the solutions you need:
 
-<div  style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; border-left: 5px solid #007bff;">
   
 
 <details>
-  <summary>Getting Started</summary>
+  <summary>  <strong>Getting Started 👇🏼</strong> </summary>
   
   - [Step One](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Getting%20Started/Step%20One)
   - [Zero](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Getting%20Started/Zero)
     
 </details>
 <details>
-  <summary>Verilog Language</summary>
+  <summary> <strong>Verilog Language 👇🏼</strong> </summary>
 
   - <details>
-    <summary> <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics">Basic</a> </summary>
+    <summary> <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics"> <b>Basic </b> </a> 🔻 </summary>
 
     - [Simple wire](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Simple%20wire)
     - [Four wires](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Four%20wires)
@@ -46,8 +45,6 @@ The repository is organized to make it easy to navigate and find the solutions y
   
 </details>
 
-
-</div>
 
 ## Usage 📘
 ### How to Find Solutions 🔍
