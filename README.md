@@ -55,7 +55,7 @@ Navigate to problems from `Repository Structure` and select needed directory to 
 - `testbench.sv`: Testbench to verify the solution.
 
 ## Contact 📧
-Have questions, suggestions, or feedback? We'd love to hear from you! Reach out at [nidhinchandran470@gmail.com](mailto:nidhinchandran470@gmail.com).
+Have questions, suggestions, feedback, or you find something wrong here? We'd love to hear from you! Reach out at [🔗..](mailto:nidhinchandran470@gmail.com).
 
 ---
 
