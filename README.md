@@ -48,7 +48,7 @@ The repository is organized to make it easy to navigate and find the solutions y
 
 ## Usage 📘
 ### How to Find Solutions 🔍
-Navigate to the `challenges` directory to find solutions to specific HDL Bits exercises. Each challenge directory contains:
+Navigate to problems from `Repository Structure` and select needed directory to find solutions to specific HDL Bits exercises. Each challenge directory may contains:
 - `problem_statement.md`: The original problem statement.
 - `solution_verilog.v`: Solution written in Verilog.
 - `output_wavwform.png`: Simulated result's waveform.
