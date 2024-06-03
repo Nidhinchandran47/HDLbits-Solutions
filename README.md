@@ -4,6 +4,7 @@ Welcome to the **HDL Bits Solutions** repository! Stucked while solving HDL Bits
 
 ## Table of Contents 📋
 
+
 - [Repository Structure](#repository-structure)
 - [About HDL Bits](#about-hdl-bits)
 - [Usage](#usage)
