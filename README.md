@@ -26,7 +26,7 @@ The repository is organized to make it easy to navigate and find the solutions y
 
   - <details>
     <summary> 2.1. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics"> <b>Basic </b> </a> 🔻 </summary>
-
+    
     - 2.1.1. [Simple wire](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Simple%20wire)
     - 2.1.2. [Four wires](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Four%20wires)
     - 2.1.3. [Inverter](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Inverter)
@@ -35,8 +35,15 @@ The repository is organized to make it easy to navigate and find the solutions y
     - 2.1.6. [Xnor Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Xnor%20gate)
     - 2.1.7. [Declaring Wire](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Declaring%20wire)
     - 2.1.8. [7458 Chip](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/7458%20chip)
-    
-  </details>
+        
+    </details>
+  - <details>
+    <summary> 2.2. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors"> <b>Vectors </b> </a> 🔻 </summary>
+
+    - 2.2.1. [Vector](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Vector)
+
+    </details>
+  
   
 </details>
 
