@@ -41,6 +41,7 @@ The repository is organized to make it easy to navigate and find the solutions y
     <summary> 2.2. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors"> <b>Vectors </b> </a> 🔻 </summary>
 
     - 2.2.1. [Vector](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Vector)
+    - 2.2.2. [Vector1](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Vector%201)
 
     </details>
   
