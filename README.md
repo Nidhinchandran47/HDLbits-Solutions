@@ -33,6 +33,8 @@ The repository is organized to make it easy to navigate and find the solutions y
     - 2.1.4. [And Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/And%20Gate)
     - 2.1.5. [Nor Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Nor%20gate)
     - 2.1.6. [Xnor Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Xnor%20gate)
+    - 2.1.7. [Declaring Wire](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/Declaring%20wire)
+    - 2.1.8. [7458 Chip](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Basics/7458%20chip)
     
   </details>
   
