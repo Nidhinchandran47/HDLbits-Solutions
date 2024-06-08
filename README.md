@@ -62,7 +62,7 @@ The repository is organized to make it easy to navigate and find the solutions y
     - 2.3.6. [Adder 1 ]()
     - 2.3.7. [Adder 2 ]()
     - 2.3.8. []()
-    - 2.3.9. [Vector 5]()
+    - 2.3.9. []()
 
     </details>
   
