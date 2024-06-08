@@ -46,9 +46,9 @@ The repository is organized to make it easy to navigate and find the solutions y
     - 2.2.4. [Vector gates](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Vector%20gates)
     - 2.2.5. [Gate 4](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Gates%204)
     - 2.2.6. [Vector 3](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Vector%203)
-    - 2.2.7. [Vector Reverse]()
+    - 2.2.7. [Vector Reverse](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Vector%20Reverse)
     - 2.2.8. [Vector 4](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/vector%204)
-    - 2.2.9. [Vector 5](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/vector%205)
+    - 2.2.9. [Vector 5](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Vector%205)
       
     </details>  
   - <details>
