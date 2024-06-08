@@ -54,13 +54,13 @@ The repository is organized to make it easy to navigate and find the solutions y
   - <details>
     <summary> 2.3. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Modules%20Hierarchy"> <b>Modules Hierarchy </b> </a> 🔻 </summary>
 
-    - 2.3.1. [Module ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Vector)
-    - 2.3.2. [Module-Position ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Vector%201)
-    - 2.3.3. [Module-Name ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Vector%202)
-    - 2.3.4. [Module-Shift](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Vector%20gates)
-    - 2.3.5. [Module-Shift8](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Vectors/Gates%204)
-    - 2.3.6. [Adder 1 ]()
-    - 2.3.7. [Adder 2 ]()
+    - 2.3.1. [Module ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Modules%20Hierarchy/Module)
+    - 2.3.2. [Module-Position ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Modules%20Hierarchy/Module-position)
+    - 2.3.3. [Module-Name ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Modules%20Hierarchy/Module-name)
+    - 2.3.4. [Module-Shift](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Modules%20Hierarchy/Module-shift)
+    - 2.3.5. [Module-Shift8](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Modules%20Hierarchy/Module-shift8)
+    - 2.3.6. [Adder 1 ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Modules%20Hierarchy/Adder%201)
+    - 2.3.7. [Adder 2 ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Modules%20Hierarchy/Adder%202)
     - 2.3.8. []()
     - 2.3.9. []()
 
