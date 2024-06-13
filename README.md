@@ -65,7 +65,19 @@ The repository is organized to make it easy to navigate and find the solutions y
     - 2.3.9. [Adder cum Subtractor](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Modules%20Hierarchy/adder-sub)
 
     </details>
-  
+  - <details>
+    <summary> 2.4. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Modules%20Hierarchy"> <b>Procedures </b> </a> 🔻 </summary>
+
+    - 2.4.1. [Always Block - COmbinational ]()
+    - 2.4.2. [Always Block - Clocked ]()
+    - 2.4.3. [If Statement ]()
+    - 2.4.4. [If latch ]()
+    - 2.4.5. [Case Statement]()
+    - 2.4.6. [Priority Encoder]()
+    - 2.4.7. [Encoder with casez ]()
+    - 2.4.8. [Avoiding Latch]()
+    
+    </details>  
   
 </details>
 
