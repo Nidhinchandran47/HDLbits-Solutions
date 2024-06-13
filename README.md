@@ -68,14 +68,14 @@ The repository is organized to make it easy to navigate and find the solutions y
   - <details>
     <summary> 2.4. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Modules%20Hierarchy"> <b>Procedures </b> </a> 🔻 </summary>
 
-    - 2.4.1. [Always Block - COmbinational ]()
-    - 2.4.2. [Always Block - Clocked ]()
-    - 2.4.3. [If Statement ]()
-    - 2.4.4. [If latch ]()
-    - 2.4.5. [Case Statement]()
-    - 2.4.6. [Priority Encoder]()
-    - 2.4.7. [Encoder with casez ]()
-    - 2.4.8. [Avoiding Latch]()
+    - 2.4.1. [Always Block - Combinational ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Procedures/Always%20Block-Combinational)
+    - 2.4.2. [Always Block - Clocked ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Procedures/Always%20Block-Clocked)
+    - 2.4.3. [If Statement ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Procedures/If%20statement)
+    - 2.4.4. [If latch ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Procedures/if%20latch)
+    - 2.4.5. [Case Statement](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Procedures/case%20statement)
+    - 2.4.6. [Priority Encoder](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Procedures/Priority%20encoder)
+    - 2.4.7. [Encoder with casez ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Procedures/Encoder%20with%20casez)
+    - 2.4.8. [Avoiding Latch](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Procedures/Avoiding%20latch)
     
     </details>  
   
