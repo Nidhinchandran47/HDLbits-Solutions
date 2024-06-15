@@ -77,7 +77,19 @@ The repository is organized to make it easy to navigate and find the solutions y
     - 2.4.7. [Encoder with casez ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Procedures/Encoder%20with%20casez)
     - 2.4.8. [Avoiding Latch](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/Procedures/Avoiding%20latch)
     
-    </details>  
+    </details>
+  - <details>
+    <summary> 2.5. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/More%20Verilog%20Features"> <b>More Verilog Feature </b> </a> 🔻 </summary>
+
+    - 2.5.1. [Conditional Ternry Operators ]()
+    - 2.5.2. [Reduction Operators ]()
+    - 2.5.3. [Reduction- Even wider gates ]()
+    - 2.5.4. [For loop vector reversal ]()
+    - 2.5.5. [For loop population count]()
+    - 2.5.6. [Generate- for loop adder]()
+    - 2.5.7. [Generate- for loop BCD Adder ]()
+    
+    </details>
   
 </details>
 
