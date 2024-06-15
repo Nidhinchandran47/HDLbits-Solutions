@@ -81,13 +81,13 @@ The repository is organized to make it easy to navigate and find the solutions y
   - <details>
     <summary> 2.5. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/More%20Verilog%20Features"> <b>More Verilog Feature </b> </a> 🔻 </summary>
 
-    - 2.5.1. [Conditional Ternry Operators ]()
+    - 2.5.1. [Conditional Ternry Operators ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/More%20Verilog%20Features/Conditional%20Ternary%20Operaters)
     - 2.5.2. [Reduction Operators ]()
     - 2.5.3. [Reduction- Even wider gates ]()
-    - 2.5.4. [For loop vector reversal ]()
-    - 2.5.5. [For loop population count]()
-    - 2.5.6. [Generate- for loop adder]()
-    - 2.5.7. [Generate- for loop BCD Adder ]()
+    - 2.5.4. [For loop vector reversal ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/More%20Verilog%20Features/For%20loop%20vector%20reversal)
+    - 2.5.5. [For loop population count](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/More%20Verilog%20Features/For%20loop%20population%20count)
+    - 2.5.6. [Generate- for loop adder](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/More%20Verilog%20Features/Generate%20for%20loop%20adder)
+    - 2.5.7. [Generate- for loop BCD Adder ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Verilog%20Language/More%20Verilog%20Features/Generate%20for%20loop%20BCD%20adder)
     
     </details>
   
