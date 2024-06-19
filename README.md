@@ -158,13 +158,52 @@ The repository is organized to make it easy to navigate and find the solutions y
          - 3.1.4.8. [K-Map implemented with MUX]()
          
          </details>
-  
-      
-       
-  
- 
 
+   
+   - <details>
+       <summary> 3.2. <a href=""> <b>Sequential Logic </b> </a> 🔻 </summary>
+    
+       - <details>
+           <summary>3.2.1 <a href=""> <b>Latches and Flip-Flops </b> </a> 🔻 </summary>
+         
+         - 3.1.1.1.
+             
+         </details>
+       - <details>
+           <summary>3.2.2 <a href=""> <b>Counters </b> </a> 🔻</summary>
+         
+         - 3.1.2.1.
+         
+          
+         </details>
+       - <details>
+           <summary>3.2.3 <a href=""> <b>Shift Registers </b> </a> 🔻</summary>
+         
+         - 3.1.3.1
   
+         </details>
+       - <details>
+           <summary>3.2.4 <a href=""> <b>More Circuits </b> </a> 🔻</summary>
+         
+         - 3.1.4.1. 
+         
+         </details>
+       - <details>
+           <summary>3.2.5 <a href=""> <b>Finite State Machines </b> </a> 🔻</summary>
+         
+         - 3.1.4.1. 
+         
+         </details>
+  
+   
+   - <details>
+       <summary> 3.3. <a href=""> <b>Building Larger Circuit </b> </a> 🔻 </summary>
+     
+       - 3.3.1[]()
+       
+   </details> 
+      
+
 
   </details>
 </details>
