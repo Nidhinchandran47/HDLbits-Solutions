@@ -94,7 +94,46 @@ The repository is organized to make it easy to navigate and find the solutions y
 </details>
 
 <details>
-  <summary> <strong>3. Verilog Language 👇🏼</strong> </summary>
+  <summary> <strong>3. Circuits 👇🏼</strong> </summary>
+  
+   - <details>
+       <summary> 3.1. <a href=""> <b>Combinational Logic </b> </a> 🔻 </summary>
+    
+       - <details>
+           <summary>3.1.1 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates"> <b>Basic Gates </b> </a> 🔻 </summary>
+         
+         - 3.1.1.1. [Wire](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Wire)
+         - 3.1.1.2. [Ground](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Ground)
+         - 3.1.1.3. [NOR Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Nor%20Gate)
+         - 3.1.1.4. [Another Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Another%20Gate)
+         - 3.1.1.5. [Two Gates](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Two%20Gates)
+         - 3.1.1.6. [More Logic Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/More%20logic%20gates)
+         - 3.1.1.7. [7420 Chip](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/7420)
+         - 3.1.1.8. [Truth Table](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Truth%20Table)
+         - 3.1.1.9. [Two Bit Equality](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Two-Bit%20Equality)
+         - 3.1.1.10. [Sample Circuit A](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Sample%20Circuit%20A)
+         - 3.1.1.11. [Sample Circuit B](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Sample%20circuit%20B)
+         - 3.1.1.12. [Combine A and B](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Combine%20A%20and%20B)
+         - 3.1.1.13. [Ring or Vibrate?]()
+         - 3.1.1.14. [Thermostat]()
+         - 3.1.1.15. [Population Counter]()
+         - 3.1.1.16. [Gate and Vector]()
+         - 3.1.1.17. [Even Longer Vector]()
+             
+         </details>
+       - <details>
+           <summary>3.1.2 <a href=""> <b>Multiplexer </b> </a> 🔻</summary>
+         </details>
+       - <details>
+           <summary>3.1.3 <a href=""> <b>Arithematic Circuits </b> </a> 🔻</summary>
+         </details>
+       - <details>
+           <summary>3.1.4 <a href=""> <b>K-Map to Circuit </b> </a> 🔻</summary>
+         </details>
+      
+    
+
+  </details>
 </details>
 
 ## About HDL Bits 🧠
