@@ -208,6 +208,24 @@ The repository is organized to make it easy to navigate and find the solutions y
   </details>
 </details>
 
+<details>
+  <summary>4</summary>
+
+  - <details>
+    <summary>4.1</summary>
+    
+    - 4.1.1
+  
+- <details>
+    <summary>4.2</summary>
+    
+    - 4.2.1
+  
+  </details>
+  
+</details>
+
+
 ## About HDL Bits 🧠
 **HDL Bits** is a website containing a collection of small circuit design exercises for practicing digital hardware design using Verilog Hardware Description Language (HDL). The exercises range from tutorial-style problems for beginners to increasingly challenging tasks that test and improve your circuit design skills. Each problem requires you to design a small circuit in Verilog. HDLBits gives you immediate feedback on the circuit module you submit. Your circuit is checked for correctness by simulating with a set of test vectors and comparing it to our reference solution.
 
