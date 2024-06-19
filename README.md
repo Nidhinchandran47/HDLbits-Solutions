@@ -124,6 +124,14 @@ The repository is organized to make it easy to navigate and find the solutions y
          </details>
        - <details>
            <summary>3.1.2 <a href=""> <b>Multiplexer </b> </a> 🔻</summary>
+         
+         - 3.1.2.1. [2 to 1 Multiplexer]()
+         - 3.1.2.2. [2 to 1 Bus Multiplexer]()
+         - 3.1.2.3. [9 to 1 Multiplexer]()
+         - 3.1.2.4. [256 to 1 MUX]()
+         - 3.1.2.5. [256 to 1 4-bit MUX ]()
+         
+          
          </details>
        - <details>
            <summary>3.1.3 <a href=""> <b>Arithematic Circuits </b> </a> 🔻</summary>
