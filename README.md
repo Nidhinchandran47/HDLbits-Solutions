@@ -147,9 +147,24 @@ The repository is organized to make it easy to navigate and find the solutions y
          </details>
        - <details>
            <summary>3.1.4 <a href=""> <b>K-Map to Circuit </b> </a> 🔻</summary>
+         
+         - 3.1.4.1. [3 Variable]()
+         - 3.1.4.2. [4 Variable 1]()
+         - 3.1.4.3. [4 Variable 2]()
+         - 3.1.4.4. [4 Variavle 3]()
+         - 3.1.4.5. [Minimum SOP and POS]()
+         - 3.1.4.6. [K-Kmap 1]()
+         - 3.1.4.7. [K-Map 2]()
+         - 3.1.4.8. [K-Map implemented with MUX]()
+         
          </details>
+  
       
-    
+       
+  
+ 
+
+  
 
   </details>
 </details>
