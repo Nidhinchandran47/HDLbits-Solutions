@@ -190,20 +190,29 @@ The repository is organized to make it easy to navigate and find the solutions y
            <summary>3.2.2 <a href=""> <b>Counters </b> </a> 🔻</summary>
          
          - 3.2.2.1. [Four-bit Counter]()
-         - 3.2.2.1. [Decade Counter]()
-         - 3.2.2.1. [Decade Counter Again]()
-         - 3.2.2.1. [Slow DEcade Counter]()
-         - 3.2.2.1. [Counter 1-12]()
-         - 3.2.2.1. [counter 1000]()
-         - 3.2.2.1. [4digit Decimal Counter]()
-         - 3.2.2.1. [12-hour Clock]()
+         - 3.2.2.2. [Decade Counter]()
+         - 3.2.2.3. [Decade Counter Again]()
+         - 3.2.2.4. [Slow DEcade Counter]()
+         - 3.2.2.5. [Counter 1-12]()
+         - 3.2.2.6. [counter 1000]()
+         - 3.2.2.7. [4digit Decimal Counter]()
+         - 3.2.2.8. [12-hour Clock]()
          
           
          </details>
        - <details>
            <summary>3.2.3 <a href=""> <b>Shift Registers </b> </a> 🔻</summary>
          
-         - 3.2.3.1 []()
+         - 3.2.3.1 [4-bit Shift Register]()
+         - 3.2.3.2 [Left-Right Rotator]()
+         - 3.2.3.3 [Left-Right Arithematic Shift by 1 or 8]()
+         - 3.2.3.4 [5-bit LFSR]()
+         - 3.2.3.5 [3-bit LFSR]()
+         - 3.2.3.6 [32-bit LFSR]()
+         - 3.2.3.7 [Shift Register 1]()
+         - 3.2.3.8 [Shift register 2]()
+         - 3.2.3.9 [3 input LUT]()
+         
   
          </details>
        - <details>
