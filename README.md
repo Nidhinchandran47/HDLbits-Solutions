@@ -189,7 +189,14 @@ The repository is organized to make it easy to navigate and find the solutions y
        - <details>
            <summary>3.2.2 <a href=""> <b>Counters </b> </a> 🔻</summary>
          
-         - 3.2.2.1. []()
+         - 3.2.2.1. [Four-bit Counter]()
+         - 3.2.2.1. [Decade Counter]()
+         - 3.2.2.1. [Decade Counter Again]()
+         - 3.2.2.1. [Slow DEcade Counter]()
+         - 3.2.2.1. [Counter 1-12]()
+         - 3.2.2.1. [counter 1000]()
+         - 3.2.2.1. [4digit Decimal Counter]()
+         - 3.2.2.1. [12-hour Clock]()
          
           
          </details>
