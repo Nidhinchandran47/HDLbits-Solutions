@@ -218,12 +218,16 @@ The repository is organized to make it easy to navigate and find the solutions y
        - <details>
            <summary>3.2.4 <a href=""> <b>More Circuits </b> </a> 🔻</summary>
          
-         - 3.2.4.1. []()
+         - 3.2.4.1. [Rule 90]()
+         - 3.2.4.2. [Rule 110]()
+         - 3.2.4.3. [Conways Game of Life 16X6]()
          
          </details>
        - <details>
            <summary>3.2.5 <a href=""> <b>Finite State Machines </b> </a> 🔻</summary>
          
+         - 3.2.5.1. []()
+         - 3.2.5.1. []()
          - 3.2.5.1. []()
          
          </details>
