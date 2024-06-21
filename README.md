@@ -115,11 +115,11 @@ The repository is organized to make it easy to navigate and find the solutions y
          - 3.1.1.10. [Sample Circuit A](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Sample%20Circuit%20A)
          - 3.1.1.11. [Sample Circuit B](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Sample%20circuit%20B)
          - 3.1.1.12. [Combine A and B](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Combine%20A%20and%20B)
-         - 3.1.1.13. [Ring or Vibrate?]()
-         - 3.1.1.14. [Thermostat]()
-         - 3.1.1.15. [Population Counter]()
-         - 3.1.1.16. [Gate and Vector]()
-         - 3.1.1.17. [Even Longer Vector]()
+         - 3.1.1.13. [Ring or Vibrate?](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Ring%20or%20Vibrate)
+         - 3.1.1.14. [Thermostat](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Thermostat)
+         - 3.1.1.15. [Population Counter](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Population%20Count)
+         - 3.1.1.16. [Gate and Vector](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Gate%20and%20Vector)
+         - 3.1.1.17. [Even Longer Vector](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Even%20longer%20Vector)
              
          </details>
        - <details>
