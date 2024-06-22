@@ -98,7 +98,7 @@ The repository is organized to make it easy to navigate and find the solutions y
   <summary> <strong>3. Circuits 👇🏼</strong> </summary>
   
    - <details>
-       <summary> 3.1. <a href=""> <b>Combinational Logic </b> </a> 🔻 </summary>
+       <summary> 3.1. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic"> <b>Combinational Logic </b> </a> 🔻 </summary>
     
        - <details>
            <summary>3.1.1 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates"> <b>Basic Gates </b> </a> 🔻 </summary>
@@ -123,13 +123,13 @@ The repository is organized to make it easy to navigate and find the solutions y
              
          </details>
        - <details>
-           <summary>3.1.2 <a href=""> <b>Multiplexer </b> </a> 🔻</summary>
+           <summary>3.1.2 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers"> <b>Multiplexer </b> </a> 🔻</summary>
          
-         - 3.1.2.1. [2 to 1 Multiplexer]()
-         - 3.1.2.2. [2 to 1 Bus Multiplexer]()
-         - 3.1.2.3. [9 to 1 Multiplexer]()
-         - 3.1.2.4. [256 to 1 MUX]()
-         - 3.1.2.5. [256 to 1 4-bit MUX ]()
+         - 3.1.2.1. [2 to 1 Multiplexer](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/2%20to%201%20MUX)
+         - 3.1.2.2. [2 to 1 Bus Multiplexer](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/2%20to%201%20Bus%20MUX)
+         - 3.1.2.3. [9 to 1 Multiplexer](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/9%20to%201%20MUX)
+         - 3.1.2.4. [256 to 1 MUX](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/256%20to%201%20MUX)
+         - 3.1.2.5. [256 to 1 4-bit MUX ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/256%20to%201%204-bit%20MUX)
          
           
          </details>
