@@ -136,13 +136,13 @@ The repository is organized to make it easy to navigate and find the solutions y
        - <details>
            <summary>3.1.3 <a href=""> <b>Arithematic Circuits </b> </a> 🔻</summary>
          
-         - 3.1.3.1. [Half Adder]()
-         - 3.1.3.2. [Full Adder]()
-         - 3.1.3.3. [3-bit Binary Adder]()
-         - 3.1.3.4. [Adder]()
-         - 3.1.3.5. [Signed Addition Overflow]()
-         - 3.1.3.6. [100-bit Binary Adder]()
-         - 3.1.3.7. [4-bit BCD Adder]()
+         - 3.1.3.1. [Half Adder](<Circuits/Combinational Logic/Arithemetic Circuits/01. Half Adder>)
+         - 3.1.3.2. [Full Adder](<Circuits/Combinational Logic/Arithemetic Circuits/02. Full Adder>)
+         - 3.1.3.3. [3-bit Binary Adder](<Circuits/Combinational Logic/Arithemetic Circuits/03. 3-bit Binary Adder>)
+         - 3.1.3.4. [Adder](<Circuits/Combinational Logic/Arithemetic Circuits/04. Adder>)
+         - 3.1.3.5. [Signed Addition Overflow](<Circuits/Combinational Logic/Arithemetic Circuits/05. Signed addition Overflow>)
+         - 3.1.3.6. [100-bit Binary Adder](<Circuits/Combinational Logic/Arithemetic Circuits/06. Adder 100>)
+         - 3.1.3.7. [4-bit BCD Adder](<Circuits/Combinational Logic/Arithemetic Circuits/07. 4-bit BCD Adder>)
   
          </details>
        - <details>
