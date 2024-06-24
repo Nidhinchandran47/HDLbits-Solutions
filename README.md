@@ -134,7 +134,7 @@ The repository is organized to make it easy to navigate and find the solutions y
           
          </details>
        - <details>
-           <summary>3.1.3 <a href=""> <b>Arithematic Circuits </b> </a> 🔻</summary>
+           <summary>3.1.3 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Arithemetic%20Circuits"> <b>Arithematic Circuits </b> </a> 🔻</summary>
          
          - 3.1.3.1. [Half Adder](<Circuits/Combinational Logic/Arithemetic Circuits/01. Half Adder>)
          - 3.1.3.2. [Full Adder](<Circuits/Combinational Logic/Arithemetic Circuits/02. Full Adder>)
