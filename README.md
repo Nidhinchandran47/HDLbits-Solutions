@@ -146,7 +146,7 @@ The repository is organized to make it easy to navigate and find the solutions y
   
          </details>
        - <details>
-           <summary>3.1.4 <a href=""> <b>K-Map to Circuit </b> </a> 🔻</summary>
+           <summary>3.1.4 <a href=""> <b>K-Maps to Circuit </b> </a> 🔻</summary>
          
          - 3.1.4.1. [3 Variable]()
          - 3.1.4.2. [4 Variable 1]()
