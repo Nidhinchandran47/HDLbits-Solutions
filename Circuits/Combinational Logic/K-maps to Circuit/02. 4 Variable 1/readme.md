@@ -22,4 +22,6 @@ Out = $(\overline{c}.\overline{b})+(\overline{a}.\overline{d})+(\overline{a}.b.c
 
 Out = $(\overline{a}+\overline{b}+\overline{c}).(\overline{a}+b+c).(\overline{b}+c+d).(a+b+\overline{c}+\overline{d})$
 
+Find the verilog file [here](solution_verilog.v)
+
 </details>

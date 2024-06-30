@@ -41,4 +41,6 @@ OUT = $\Pi _M (0, 1, 4, 5, 6, 9, 10, 13, 14) . D_m(3,8,12)$
 
 $= c(\overline{a}+b)(\overline{b}+d)$
 
+Find the verilog file [here](solution_verilog.v)
+
 </details>
