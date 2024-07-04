@@ -148,14 +148,14 @@ The repository is organized to make it easy to navigate and find the solutions y
        - <details>
            <summary>3.1.4 <a href=""> <b>K-Maps to Circuit </b> </a> 🔻</summary>
          
-         - 3.1.4.1. [3 Variable]()
-         - 3.1.4.2. [4 Variable 1]()
-         - 3.1.4.3. [4 Variable 2]()
-         - 3.1.4.4. [4 Variavle 3]()
-         - 3.1.4.5. [Minimum SOP and POS]()
-         - 3.1.4.6. [K-Map 1]()
-         - 3.1.4.7. [K-Map 2]()
-         - 3.1.4.8. [K-Map implemented with MUX]()
+         - 3.1.4.1. [3 Variable](<Circuits/Combinational Logic/K-maps to Circuit/01. 3 Variable>)
+         - 3.1.4.2. [4 Variable 1](<Circuits/Combinational Logic/K-maps to Circuit/02. 4 Variable 1>)
+         - 3.1.4.3. [4 Variable 2](<Circuits/Combinational Logic/K-maps to Circuit/03. 4 Variavle 2>)
+         - 3.1.4.4. [4 Variavle 3](<Circuits/Combinational Logic/K-maps to Circuit/04. 4 Variavle 3>)
+         - 3.1.4.5. [Minimum SOP and POS](<Circuits/Combinational Logic/K-maps to Circuit/05. Minimum SOP and POS>)
+         - 3.1.4.6. [K-Map 1](<Circuits/Combinational Logic/K-maps to Circuit/06. K-Map 1>)
+         - 3.1.4.7. [K-Map 2](<Circuits/Combinational Logic/K-maps to Circuit/07. K-Map 2>)
+         - 3.1.4.8. [K-Map implemented with MUX](<Circuits/Combinational Logic/K-maps to Circuit/08. K-map with MUX>)
          
          </details>
 
