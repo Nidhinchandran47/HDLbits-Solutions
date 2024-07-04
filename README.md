@@ -146,7 +146,7 @@ The repository is organized to make it easy to navigate and find the solutions y
   
          </details>
        - <details>
-           <summary>3.1.4 <a href=""> <b>K-Maps to Circuit </b> </a> 🔻</summary>
+           <summary>3.1.4 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/K-maps%20to%20Circuit"> <b>K-Maps to Circuit </b> </a> 🔻</summary>
          
          - 3.1.4.1. [3 Variable](<Circuits/Combinational Logic/K-maps to Circuit/01. 3 Variable>)
          - 3.1.4.2. [4 Variable 1](<Circuits/Combinational Logic/K-maps to Circuit/02. 4 Variable 1>)
@@ -166,12 +166,12 @@ The repository is organized to make it easy to navigate and find the solutions y
        - <details>
            <summary>3.2.1 <a href=""> <b>Latches and Flip-Flops </b> </a> 🔻 </summary>
          
-         - 3.2.1.1. [D flip-flop]()
-         - 3.2.1.2. [D flip-flops]()
-         - 3.2.1.3. [DFF with Reset]()
-         - 3.2.1.4. [DFF with Reset Value]()
-         - 3.2.1.5. [DFF with Asynchronous Reset]()
-         - 3.2.1.6. [DFF with Enable]()
+         - 3.2.1.1. [D flip-flop](<Circuits/Sequential Logic/Latches and Flip-Flops/01. D Flip-Flop>)
+         - 3.2.1.2. [D flip-flops](<Circuits/Sequential Logic/Latches and Flip-Flops/02. D Flip-Flops>)
+         - 3.2.1.3. [DFF with Reset](<Circuits/Sequential Logic/Latches and Flip-Flops/03. D Flip-Flops with reset>)
+         - 3.2.1.4. [DFF with Reset Value](<Circuits/Sequential Logic/Latches and Flip-Flops/04. D Flip-Flop with reset value>)
+         - 3.2.1.5. [DFF with Asynchronous Reset](<Circuits/Sequential Logic/Latches and Flip-Flops/05. DFF with asynchronous reset>)
+         - 3.2.1.6. [DFF with Enable](<Circuits/Sequential Logic/Latches and Flip-Flops/06. DFF with byte enable>)
          - 3.2.1.7. [D Latch]()
          - 3.2.1.8. [DFF 1]()
          - 3.2.1.9. [DFF 2]()
