@@ -192,11 +192,11 @@ The repository is organized to make it easy to navigate and find the solutions y
          - 3.2.2.1. [Four-bit Counter](<Circuits/Sequential Logic/Counters/01. 4-Bit binart Counter>)
          - 3.2.2.2. [Decade Counter](<Circuits/Sequential Logic/Counters/02. Decade Counter>)
          - 3.2.2.3. [Decade Counter Again](<Circuits/Sequential Logic/Counters/03. Decade Counter Again>)
-         - 3.2.2.4. [Slow DEcade Counter](<Circuits/Sequential Logic/Counters/04. Counter 1-12>)
-         - 3.2.2.5. [Counter 1-12]()
-         - 3.2.2.6. [counter 1000]()
-         - 3.2.2.7. [4digit Decimal Counter]()
-         - 3.2.2.8. [12-hour Clock]()
+         - 3.2.2.4. [Slow Decade Counter](<Circuits/Sequential Logic/Counters/05. Slow Decade Counter>)
+         - 3.2.2.5. [Counter 1-12](<Circuits/Sequential Logic/Counters/04. Counter 1-12>)
+         - 3.2.2.6. [counter 1000](<Circuits/Sequential Logic/Counters/06. Counter 1000>)
+         - 3.2.2.7. [4 digit Decimal Counter](<Circuits/Sequential Logic/Counters/07. 4-Digit Decimal Counter>)
+         - 3.2.2.8. [12-hour Clock](<Circuits/Sequential Logic/Counters/08. 12-Hour Clock>)
          
           
          </details>
