@@ -183,16 +183,16 @@ The repository is organized to make it easy to navigate and find the solutions y
          - 3.2.1.15. [Detect an Edge](<Circuits/Sequential Logic/Latches and Flip-Flops/15. Positive edge>)
          - 3.2.1.16. [Detect Both Edge](<Circuits/Sequential Logic/Latches and Flip-Flops/16. Detect both Edges>)
          - 3.2.1.17. [Edge Capture Register](<Circuits/Sequential Logic/Latches and Flip-Flops/17. Edge Capture Register>)
-         - 3.2.1.18. [Dual-edge Triggered Flip-flop]()
+         - 3.2.1.18. [Dual-edge Triggered Flip-flop](<Circuits/Sequential Logic/Latches and Flip-Flops/18. Dual Edge Triggered FF>)
          
          </details>
        - <details>
            <summary>3.2.2 <a href=""> <b>Counters </b> </a> 🔻</summary>
          
-         - 3.2.2.1. [Four-bit Counter]()
-         - 3.2.2.2. [Decade Counter]()
-         - 3.2.2.3. [Decade Counter Again]()
-         - 3.2.2.4. [Slow DEcade Counter]()
+         - 3.2.2.1. [Four-bit Counter](<Circuits/Sequential Logic/Counters/01. 4-Bit binart Counter>)
+         - 3.2.2.2. [Decade Counter](<Circuits/Sequential Logic/Counters/02. Decade Counter>)
+         - 3.2.2.3. [Decade Counter Again](<Circuits/Sequential Logic/Counters/03. Decade Counter Again>)
+         - 3.2.2.4. [Slow DEcade Counter](<Circuits/Sequential Logic/Counters/04. Counter 1-12>)
          - 3.2.2.5. [Counter 1-12]()
          - 3.2.2.6. [counter 1000]()
          - 3.2.2.7. [4digit Decimal Counter]()
@@ -203,12 +203,12 @@ The repository is organized to make it easy to navigate and find the solutions y
        - <details>
            <summary>3.2.3 <a href=""> <b>Shift Registers </b> </a> 🔻</summary>
          
-         - 3.2.3.1 [4-bit Shift Register]()
-         - 3.2.3.2 [Left-Right Rotator]()
-         - 3.2.3.3 [Left-Right Arithematic Shift by 1 or 8]()
-         - 3.2.3.4 [5-bit LFSR]()
-         - 3.2.3.5 [3-bit LFSR]()
-         - 3.2.3.6 [32-bit LFSR]()
+         - 3.2.3.1 [4-bit Shift Register](<Circuits/Sequential Logic/Shift Register/01. 4-bit Shifter>)
+         - 3.2.3.2 [Left-Right Rotator](<Circuits/Sequential Logic/Shift Register/02. Left-Right Rotator>)
+         - 3.2.3.3 [Left-Right Arithematic Shift by 1 or 8](<Circuits/Sequential Logic/Shift Register/03. Left-Right Arithemetic shifter>)
+         - 3.2.3.4 [5-bit LFSR](<Circuits/Sequential Logic/Shift Register/04. 5-bit LFSR>)
+         - 3.2.3.5 [3-bit LFSR](<Circuits/Sequential Logic/Shift Register/05. 3-bit LFSR>)
+         - 3.2.3.6 [32-bit LFSR](<Circuits/Sequential Logic/Shift Register/06. 32-bit LFSR>)
          - 3.2.3.7 [Shift Register 1]()
          - 3.2.3.8 [Shift register 2]()
          - 3.2.3.9 [3 input LUT]()
