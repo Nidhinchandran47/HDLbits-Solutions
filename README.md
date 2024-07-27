@@ -175,7 +175,7 @@ The repository is organized to make it easy to navigate and find the solutions y
          - 3.2.1.7. [D Latch](<Circuits/Sequential Logic/Latches and Flip-Flops/07. D Latch>)
          - 3.2.1.8. [DFF 1](<Circuits/Sequential Logic/Latches and Flip-Flops/08. DFF 1>)
          - 3.2.1.9. [DFF 2](<Circuits/Sequential Logic/Latches and Flip-Flops/09. DFF 2>)
-         - 3.2.1.10. [DFF + Gate]()
+         - 3.2.1.10. [DFF + Gate]( )
          - 3.2.1.11. [MUX + DFF 1]()
          - 3.2.1.12. [MUX + DFF 2]()
          - 3.2.1.13. [DFF and Gates]()
