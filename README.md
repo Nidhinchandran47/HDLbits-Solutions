@@ -288,4 +288,3 @@ Have questions, suggestions, feedback, or you find something wrong here? We'd lo
 
 ---
 
-This README provides a comprehensive guide to using and contributing to the HDL Bits Solutions repository. Let's build a collaborative community to help everyone master HDL concepts one byte at a time! 🚀🔧
