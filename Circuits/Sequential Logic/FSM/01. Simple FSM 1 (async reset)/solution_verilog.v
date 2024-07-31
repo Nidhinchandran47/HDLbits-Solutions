@@ -10,19 +10,9 @@ module top_module(
     always @(*) begin    // This is a combinational always block
         // State transition logic
         case (state)
-            A : begin
-                if(in)
-                    next_state <= A;
-                else
-                    next_state <= B;
-            end
-            B : begin
-                if(in)
-                    next_state <= B;
-                else
-                    next_state <= A;
-            end
-        endcase
+			A: next_state = in ? A : B;
+			B: next_state = in ? B : A;
+		endcase
     end
 
     always @(posedge clk, posedge areset) begin    // This is a sequential always block
