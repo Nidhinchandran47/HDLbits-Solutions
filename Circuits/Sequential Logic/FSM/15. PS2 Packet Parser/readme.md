@@ -9,12 +9,15 @@ The FSM should signal done in the cycle immediately after the third byte of each
 ## Some timing diagrams to explain the desired behaviour
 
 Under error-free conditions, every three bytes form a message:
+
 ![alt text](image.png)
 
 When an error occurs, search for byte 1:
+
 ![alt text](image-1.png)
 
 Note that this is not the same as a 1xx sequence recognizer. Overlapping sequences are not allowed here:
+
 ![alt text](image-2.png)
 
 ### [Solution](solution_verilog.v)
