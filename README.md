@@ -226,9 +226,31 @@ The repository is organized to make it easy to navigate and find the solutions y
        - <details>
            <summary>3.2.5 <a href=""> <b>Finite State Machines </b> </a> 🔻</summary>
          
-         - 3.2.5.1. []()
-         - 3.2.5.1. []()
-         - 3.2.5.1. []()
+         - 3.2.5.1. [Simple FSM 1 (async reset)](<Circuits/Sequential Logic/FSM/01. Simple FSM 1 (async reset)>)
+         - 3.2.5.2. [Simple FSM 1 (sync reset)](<Circuits/Sequential Logic/FSM/02. Simple FSM 1 (sync reset)>)
+         - 3.2.5.3. [Simple FSM 2 (async reset)](<Circuits/Sequential Logic/FSM/03. Simple FSM 2 (async reset)>)
+         - 3.2.5.4. [Simple FSM 2 (sync reset)](<Circuits/Sequential Logic/FSM/04. Simple FSM 2 (sync reset)>)
+         - 3.2.5.5. 
+         - 3.2.5.6. 
+         - 3.2.5.7. 
+         - 3.2.5.8
+         - 3.2.5.9
+         - 3.2.5.10
+         - 3.2.5.11
+         - 3.2.5.12
+         - 3.2.5.13
+         - 3.2.5.14
+         - 3.2.5.15
+         - 3.2.5.16
+         - 3.2.5.17
+         - 3.2.5.18
+         - 3.2.5.19
+         - 3.2.5.20
+         - 3.2.5.21
+         - 3.2.5.22
+         - 3.2.5.23
+         - 3.2.5.24
+         
          
          </details>
   
