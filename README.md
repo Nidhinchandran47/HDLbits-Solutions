@@ -209,9 +209,9 @@ The repository is organized to make it easy to navigate and find the solutions y
          - 3.2.3.4 [5-bit LFSR](<Circuits/Sequential Logic/Shift Register/04. 5-bit LFSR>)
          - 3.2.3.5 [3-bit LFSR](<Circuits/Sequential Logic/Shift Register/05. 3-bit LFSR>)
          - 3.2.3.6 [32-bit LFSR](<Circuits/Sequential Logic/Shift Register/06. 32-bit LFSR>)
-         - 3.2.3.7 [Shift Register 1]()
-         - 3.2.3.8 [Shift register 2]()
-         - 3.2.3.9 [3 input LUT]()
+         - 3.2.3.7 [Shift Register 1](<Circuits/Sequential Logic/Shift Register/07. Shift Register>)
+         - 3.2.3.8 [Shift register 2](<Circuits/Sequential Logic/Shift Register/08. Shift Register>)
+         - 3.2.3.9 [3 input LUT](<Circuits/Sequential Logic/Shift Register/09. 3-input LUT>)
          
   
          </details>
