@@ -161,10 +161,10 @@ The repository is organized to make it easy to navigate and find the solutions y
 
    
    - <details>
-       <summary> 3.2. <a href=""> <b>Sequential Logic </b> </a> 🔻 </summary>
+       <summary> 3.2. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic"> <b>Sequential Logic </b> </a> 🔻 </summary>
     
        - <details>
-           <summary>3.2.1 <a href=""> <b>Latches and Flip-Flops </b> </a> 🔻 </summary>
+           <summary>3.2.1 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/Latches%20and%20Flip-Flops"> <b>Latches and Flip-Flops </b> </a> 🔻 </summary>
          
          - 3.2.1.1. [D flip-flop](<Circuits/Sequential Logic/Latches and Flip-Flops/01. D Flip-Flop>)
          - 3.2.1.2. [D flip-flops](<Circuits/Sequential Logic/Latches and Flip-Flops/02. D Flip-Flops>)
@@ -187,7 +187,7 @@ The repository is organized to make it easy to navigate and find the solutions y
          
          </details>
        - <details>
-           <summary>3.2.2 <a href=""> <b>Counters </b> </a> 🔻</summary>
+           <summary>3.2.2 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/Counters"> <b>Counters </b> </a> 🔻</summary>
          
          - 3.2.2.1. [Four-bit Counter](<Circuits/Sequential Logic/Counters/01. 4-Bit binart Counter>)
          - 3.2.2.2. [Decade Counter](<Circuits/Sequential Logic/Counters/02. Decade Counter>)
@@ -201,7 +201,7 @@ The repository is organized to make it easy to navigate and find the solutions y
           
          </details>
        - <details>
-           <summary>3.2.3 <a href=""> <b>Shift Registers </b> </a> 🔻</summary>
+           <summary>3.2.3 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/Shift%20Register"> <b>Shift Registers </b> </a> 🔻</summary>
          
          - 3.2.3.1 [4-bit Shift Register](<Circuits/Sequential Logic/Shift Register/01. 4-bit Shifter>)
          - 3.2.3.2 [Left-Right Rotator](<Circuits/Sequential Logic/Shift Register/02. Left-Right Rotator>)
@@ -216,7 +216,7 @@ The repository is organized to make it easy to navigate and find the solutions y
   
          </details>
        - <details>
-           <summary>3.2.4 <a href=""> <b>More Circuits </b> </a> 🔻</summary>
+           <summary>3.2.4 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/More%20Circuits"> <b>More Circuits </b> </a> 🔻</summary>
          
          - 3.2.4.1. [Rule 90](<Circuits/Sequential Logic/More Circuits/1. Rule 90>)
          - 3.2.4.2. [Rule 110](<Circuits/Sequential Logic/More Circuits/2. Rule 110>)
@@ -224,7 +224,7 @@ The repository is organized to make it easy to navigate and find the solutions y
          
          </details>
        - <details>
-           <summary>3.2.5 <a href=""> <b>Finite State Machines </b> </a> 🔻</summary>
+           <summary>3.2.5 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/FSM"> <b>Finite State Machines </b> </a> 🔻</summary>
          
          - 3.2.5.1. [Simple FSM 1 (async reset)](<Circuits/Sequential Logic/FSM/01. Simple FSM 1 (async reset)>)
          - 3.2.5.2. [Simple FSM 1 (sync reset)](<Circuits/Sequential Logic/FSM/02. Simple FSM 1 (sync reset)>)
