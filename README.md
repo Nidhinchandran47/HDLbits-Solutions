@@ -230,12 +230,12 @@ The repository is organized to make it easy to navigate and find the solutions y
          - 3.2.5.2. [Simple FSM 1 (sync reset)](<Circuits/Sequential Logic/FSM/02. Simple FSM 1 (sync reset)>)
          - 3.2.5.3. [Simple FSM 2 (async reset)](<Circuits/Sequential Logic/FSM/03. Simple FSM 2 (async reset)>)
          - 3.2.5.4. [Simple FSM 2 (sync reset)](<Circuits/Sequential Logic/FSM/04. Simple FSM 2 (sync reset)>)
-         - 3.2.5.5. 
-         - 3.2.5.6. 
-         - 3.2.5.7. 
-         - 3.2.5.8
-         - 3.2.5.9
-         - 3.2.5.10
+         - 3.2.5.5. [Simple State Transition 3](<Circuits/Sequential Logic/FSM/05. Simple State Transition 3>)
+         - 3.2.5.6. [One Hot FSM](<Circuits/Sequential Logic/FSM/06. One Hot FSM>)
+         - 3.2.5.7. [Simple FSM 3 (async reset)](<Circuits/Sequential Logic/FSM/07. Simple FSM 3 (async reset)>)
+         - 3.2.5.8. [Simple FSM 3 (sync reset)](<Circuits/Sequential Logic/FSM/08. Simple FSM 3 (sync reset)>)
+         - 3.2.5.9. [Design a Moore FSM](<Circuits/Sequential Logic/FSM/09. Design a Moore FSM>)
+         - 3.2.5.10. 
          - 3.2.5.11
          - 3.2.5.12
          - 3.2.5.13
