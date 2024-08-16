@@ -235,13 +235,13 @@ The repository is organized to make it easy to navigate and find the solutions y
          - 3.2.5.7. [Simple FSM 3 (async reset)](<Circuits/Sequential Logic/FSM/07. Simple FSM 3 (async reset)>)
          - 3.2.5.8. [Simple FSM 3 (sync reset)](<Circuits/Sequential Logic/FSM/08. Simple FSM 3 (sync reset)>)
          - 3.2.5.9. [Design a Moore FSM](<Circuits/Sequential Logic/FSM/09. Design a Moore FSM>)
-         - 3.2.5.10. 
-         - 3.2.5.11
-         - 3.2.5.12
-         - 3.2.5.13
-         - 3.2.5.14
-         - 3.2.5.15
-         - 3.2.5.16
+         - 3.2.5.10. [Lemming 1](<Circuits/Sequential Logic/FSM/10. Lemming 1>)
+         - 3.2.5.11. [Lemming 2](<Circuits/Sequential Logic/FSM/11. Lemming 2>)
+         - 3.2.5.12. [Lemming 3](<Circuits/Sequential Logic/FSM/12. Lemming 3>)
+         - 3.2.5.13. [Lemming 4](<Circuits/Sequential Logic/FSM/13. Lemmong 4>)
+         - 3.2.5.14. [One Hot FSM](<Circuits/Sequential Logic/FSM/14. One Hot FSM>)
+         - 3.2.5.15. [PS2 Packet Parser](<Circuits/Sequential Logic/FSM/15. PS2 Packet Parser>)
+         - 3.2.5.16. [PS2 Packet Parser and Datapath](<Circuits/Sequential Logic/FSM/16. PS2 Packet Parser and Datapath>)
          - 3.2.5.17
          - 3.2.5.18
          - 3.2.5.19
