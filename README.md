@@ -93,196 +93,196 @@ The repository is organized to make it easy to navigate and find the solutions y
 >     </details>
 >   
 > </details>
-
-<details>
-  <summary> <strong>3. Circuits 👇🏼</strong> </summary>
-  
-   - <details>
-       <summary> 3.1. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic"> <b>Combinational Logic </b> </a> 🔻 </summary>
-    
-       - <details>
-           <summary>3.1.1 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates"> <b>Basic Gates </b> </a> 🔻 </summary>
-         
-         - 3.1.1.1. [Wire](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Wire)
-         - 3.1.1.2. [Ground](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Ground)
-         - 3.1.1.3. [NOR Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Nor%20Gate)
-         - 3.1.1.4. [Another Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Another%20Gate)
-         - 3.1.1.5. [Two Gates](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Two%20Gates)
-         - 3.1.1.6. [More Logic Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/More%20logic%20gates)
-         - 3.1.1.7. [7420 Chip](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/7420)
-         - 3.1.1.8. [Truth Table](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Truth%20Table)
-         - 3.1.1.9. [Two Bit Equality](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Two-Bit%20Equality)
-         - 3.1.1.10. [Sample Circuit A](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Sample%20Circuit%20A)
-         - 3.1.1.11. [Sample Circuit B](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Sample%20circuit%20B)
-         - 3.1.1.12. [Combine A and B](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Combine%20A%20and%20B)
-         - 3.1.1.13. [Ring or Vibrate?](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Ring%20or%20Vibrate)
-         - 3.1.1.14. [Thermostat](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Thermostat)
-         - 3.1.1.15. [Population Counter](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Population%20Count)
-         - 3.1.1.16. [Gate and Vector](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Gate%20and%20Vector)
-         - 3.1.1.17. [Even Longer Vector](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Even%20longer%20Vector)
-             
-         </details>
-       - <details>
-           <summary>3.1.2 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers"> <b>Multiplexer </b> </a> 🔻</summary>
-         
-         - 3.1.2.1. [2 to 1 Multiplexer](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/2%20to%201%20MUX)
-         - 3.1.2.2. [2 to 1 Bus Multiplexer](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/2%20to%201%20Bus%20MUX)
-         - 3.1.2.3. [9 to 1 Multiplexer](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/9%20to%201%20MUX)
-         - 3.1.2.4. [256 to 1 MUX](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/256%20to%201%20MUX)
-         - 3.1.2.5. [256 to 1 4-bit MUX ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/256%20to%201%204-bit%20MUX)
-         
-          
-         </details>
-       - <details>
-           <summary>3.1.3 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Arithemetic%20Circuits"> <b>Arithematic Circuits </b> </a> 🔻</summary>
-         
-         - 3.1.3.1. [Half Adder](<Circuits/Combinational Logic/Arithemetic Circuits/01. Half Adder>)
-         - 3.1.3.2. [Full Adder](<Circuits/Combinational Logic/Arithemetic Circuits/02. Full Adder>)
-         - 3.1.3.3. [3-bit Binary Adder](<Circuits/Combinational Logic/Arithemetic Circuits/03. 3-bit Binary Adder>)
-         - 3.1.3.4. [Adder](<Circuits/Combinational Logic/Arithemetic Circuits/04. Adder>)
-         - 3.1.3.5. [Signed Addition Overflow](<Circuits/Combinational Logic/Arithemetic Circuits/05. Signed addition Overflow>)
-         - 3.1.3.6. [100-bit Binary Adder](<Circuits/Combinational Logic/Arithemetic Circuits/06. Adder 100>)
-         - 3.1.3.7. [4-bit BCD Adder](<Circuits/Combinational Logic/Arithemetic Circuits/07. 4-bit BCD Adder>)
-  
-         </details>
-       - <details>
-           <summary>3.1.4 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/K-maps%20to%20Circuit"> <b>K-Maps to Circuit </b> </a> 🔻</summary>
-         
-         - 3.1.4.1. [3 Variable](<Circuits/Combinational Logic/K-maps to Circuit/01. 3 Variable>)
-         - 3.1.4.2. [4 Variable 1](<Circuits/Combinational Logic/K-maps to Circuit/02. 4 Variable 1>)
-         - 3.1.4.3. [4 Variable 2](<Circuits/Combinational Logic/K-maps to Circuit/03. 4 Variavle 2>)
-         - 3.1.4.4. [4 Variavle 3](<Circuits/Combinational Logic/K-maps to Circuit/04. 4 Variavle 3>)
-         - 3.1.4.5. [Minimum SOP and POS](<Circuits/Combinational Logic/K-maps to Circuit/05. Minimum SOP and POS>)
-         - 3.1.4.6. [K-Map 1](<Circuits/Combinational Logic/K-maps to Circuit/06. K-Map 1>)
-         - 3.1.4.7. [K-Map 2](<Circuits/Combinational Logic/K-maps to Circuit/07. K-Map 2>)
-         - 3.1.4.8. [K-Map implemented with MUX](<Circuits/Combinational Logic/K-maps to Circuit/08. K-map with MUX>)
-         
-         </details>
-
-   
-   - <details>
-       <summary> 3.2. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic"> <b>Sequential Logic </b> </a> 🔻 </summary>
-    
-       - <details>
-           <summary>3.2.1 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/Latches%20and%20Flip-Flops"> <b>Latches and Flip-Flops </b> </a> 🔻 </summary>
-         
-         - 3.2.1.1. [D flip-flop](<Circuits/Sequential Logic/Latches and Flip-Flops/01. D Flip-Flop>)
-         - 3.2.1.2. [D flip-flops](<Circuits/Sequential Logic/Latches and Flip-Flops/02. D Flip-Flops>)
-         - 3.2.1.3. [DFF with Reset](<Circuits/Sequential Logic/Latches and Flip-Flops/03. D Flip-Flops with reset>)
-         - 3.2.1.4. [DFF with Reset Value](<Circuits/Sequential Logic/Latches and Flip-Flops/04. D Flip-Flop with reset value>)
-         - 3.2.1.5. [DFF with Asynchronous Reset](<Circuits/Sequential Logic/Latches and Flip-Flops/05. DFF with asynchronous reset>)
-         - 3.2.1.6. [DFF with Enable](<Circuits/Sequential Logic/Latches and Flip-Flops/06. DFF with byte enable>)
-         - 3.2.1.7. [D Latch](<Circuits/Sequential Logic/Latches and Flip-Flops/07. D Latch>)
-         - 3.2.1.8. [DFF 1](<Circuits/Sequential Logic/Latches and Flip-Flops/08. DFF 1>)
-         - 3.2.1.9. [DFF 2](<Circuits/Sequential Logic/Latches and Flip-Flops/09. DFF 2>)
-         - 3.2.1.10. [DFF + Gate](<Circuits/Sequential Logic/Latches and Flip-Flops/10. DFF + Gate>) 
-         - 3.2.1.11. [MUX + DFF 1](<Circuits/Sequential Logic/Latches and Flip-Flops/11. DFF and MUX>)
-         - 3.2.1.12. [MUX + DFF 2](<Circuits/Sequential Logic/Latches and Flip-Flops/12. DFF and MUX 2>)
-         - 3.2.1.13. [DFF and Gates](<Circuits/Sequential Logic/Latches and Flip-Flops/13. DFFs and Gates>)
-         - 3.2.1.14. [Circuit from Truth Table](<Circuits/Sequential Logic/Latches and Flip-Flops/14. Circuit from Truth table>)
-         - 3.2.1.15. [Detect an Edge](<Circuits/Sequential Logic/Latches and Flip-Flops/15. Positive edge>)
-         - 3.2.1.16. [Detect Both Edge](<Circuits/Sequential Logic/Latches and Flip-Flops/16. Detect both Edges>)
-         - 3.2.1.17. [Edge Capture Register](<Circuits/Sequential Logic/Latches and Flip-Flops/17. Edge Capture Register>)
-         - 3.2.1.18. [Dual-edge Triggered Flip-flop](<Circuits/Sequential Logic/Latches and Flip-Flops/18. Dual Edge Triggered FF>)
-         
-         </details>
-       - <details>
-           <summary>3.2.2 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/Counters"> <b>Counters </b> </a> 🔻</summary>
-         
-         - 3.2.2.1. [Four-bit Counter](<Circuits/Sequential Logic/Counters/01. 4-Bit binart Counter>)
-         - 3.2.2.2. [Decade Counter](<Circuits/Sequential Logic/Counters/02. Decade Counter>)
-         - 3.2.2.3. [Decade Counter Again](<Circuits/Sequential Logic/Counters/03. Decade Counter Again>)
-         - 3.2.2.4. [Slow Decade Counter](<Circuits/Sequential Logic/Counters/05. Slow Decade Counter>)
-         - 3.2.2.5. [Counter 1-12](<Circuits/Sequential Logic/Counters/04. Counter 1-12>)
-         - 3.2.2.6. [counter 1000](<Circuits/Sequential Logic/Counters/06. Counter 1000>)
-         - 3.2.2.7. [4 digit Decimal Counter](<Circuits/Sequential Logic/Counters/07. 4-Digit Decimal Counter>)
-         - 3.2.2.8. [12-hour Clock](<Circuits/Sequential Logic/Counters/08. 12-Hour Clock>)
-         
-          
-         </details>
-       - <details>
-           <summary>3.2.3 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/Shift%20Register"> <b>Shift Registers </b> </a> 🔻</summary>
-         
-         - 3.2.3.1 [4-bit Shift Register](<Circuits/Sequential Logic/Shift Register/01. 4-bit Shifter>)
-         - 3.2.3.2 [Left-Right Rotator](<Circuits/Sequential Logic/Shift Register/02. Left-Right Rotator>)
-         - 3.2.3.3 [Left-Right Arithematic Shift by 1 or 8](<Circuits/Sequential Logic/Shift Register/03. Left-Right Arithemetic shifter>)
-         - 3.2.3.4 [5-bit LFSR](<Circuits/Sequential Logic/Shift Register/04. 5-bit LFSR>)
-         - 3.2.3.5 [3-bit LFSR](<Circuits/Sequential Logic/Shift Register/05. 3-bit LFSR>)
-         - 3.2.3.6 [32-bit LFSR](<Circuits/Sequential Logic/Shift Register/06. 32-bit LFSR>)
-         - 3.2.3.7 [Shift Register 1](<Circuits/Sequential Logic/Shift Register/07. Shift Register>)
-         - 3.2.3.8 [Shift register 2](<Circuits/Sequential Logic/Shift Register/08. Shift Register>)
-         - 3.2.3.9 [3 input LUT](<Circuits/Sequential Logic/Shift Register/09. 3-input LUT>)
-         
-  
-         </details>
-       - <details>
-           <summary>3.2.4 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/More%20Circuits"> <b>More Circuits </b> </a> 🔻</summary>
-         
-         - 3.2.4.1. [Rule 90](<Circuits/Sequential Logic/More Circuits/1. Rule 90>)
-         - 3.2.4.2. [Rule 110](<Circuits/Sequential Logic/More Circuits/2. Rule 110>)
-         - 3.2.4.3. [Conways Game of Life 16X6]()
-         
-         </details>
-       - <details>
-           <summary>3.2.5 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/FSM"> <b>Finite State Machines </b> </a> 🔻</summary>
-         
-         - 3.2.5.1. [Simple FSM 1 (async reset)](<Circuits/Sequential Logic/FSM/01. Simple FSM 1 (async reset)>)
-         - 3.2.5.2. [Simple FSM 1 (sync reset)](<Circuits/Sequential Logic/FSM/02. Simple FSM 1 (sync reset)>)
-         - 3.2.5.3. [Simple FSM 2 (async reset)](<Circuits/Sequential Logic/FSM/03. Simple FSM 2 (async reset)>)
-         - 3.2.5.4. [Simple FSM 2 (sync reset)](<Circuits/Sequential Logic/FSM/04. Simple FSM 2 (sync reset)>)
-         - 3.2.5.5. [Simple State Transition 3](<Circuits/Sequential Logic/FSM/05. Simple State Transition 3>)
-         - 3.2.5.6. [One Hot FSM](<Circuits/Sequential Logic/FSM/06. One Hot FSM>)
-         - 3.2.5.7. [Simple FSM 3 (async reset)](<Circuits/Sequential Logic/FSM/07. Simple FSM 3 (async reset)>)
-         - 3.2.5.8. [Simple FSM 3 (sync reset)](<Circuits/Sequential Logic/FSM/08. Simple FSM 3 (sync reset)>)
-         - 3.2.5.9. [Design a Moore FSM](<Circuits/Sequential Logic/FSM/09. Design a Moore FSM>)
-         - 3.2.5.10. [Lemming 1](<Circuits/Sequential Logic/FSM/10. Lemming 1>)
-         - 3.2.5.11. [Lemming 2](<Circuits/Sequential Logic/FSM/11. Lemming 2>)
-         - 3.2.5.12. [Lemming 3](<Circuits/Sequential Logic/FSM/12. Lemming 3>)
-         - 3.2.5.13. [Lemming 4](<Circuits/Sequential Logic/FSM/13. Lemmong 4>)
-         - 3.2.5.14. [One Hot FSM](<Circuits/Sequential Logic/FSM/14. One Hot FSM>)
-         - 3.2.5.15. [PS2 Packet Parser](<Circuits/Sequential Logic/FSM/15. PS2 Packet Parser>)
-         - 3.2.5.16. [PS2 Packet Parser and Datapath](<Circuits/Sequential Logic/FSM/16. PS2 Packet Parser and Datapath>)
-         - 3.2.5.17
-         - 3.2.5.18
-         - 3.2.5.19
-         - 3.2.5.20
-         - 3.2.5.21
-         - 3.2.5.22
-         - 3.2.5.23
-         - 3.2.5.24
-         
-         
-         </details>
-  
-   
-   - <details>
-       <summary> 3.3. <a href=""> <b>Building Larger Circuit </b> </a> 🔻 </summary>
-     
-       - 3.3.1. []()
-       
-   </details> 
-      
-
-
-  </details>
-</details>
-
-<details>
-  <summary>4</summary>
-
-  - <details>
-    <summary>4.1</summary>
-    
-    - 4.1.1
-  
-- <details>
-    <summary>4.2</summary>
-    
-    - 4.2.1
-  
-  </details>
-  
-</details>
+>
+> <details>
+>   <summary> <strong>3. Circuits 👇🏼</strong> </summary>
+>   
+>    - <details>
+>        <summary> 3.1. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic"> <b>Combinational Logic </b> </a> 🔻 </summary>
+>     
+>        - <details>
+>            <summary>3.1.1 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates"> <b>Basic Gates </b> </a> 🔻 </summary>
+>          
+>          - 3.1.1.1. [Wire](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Wire)
+>          - 3.1.1.2. [Ground](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Ground)
+>          - 3.1.1.3. [NOR Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Nor%20Gate)
+>          - 3.1.1.4. [Another Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Another%20Gate)
+>          - 3.1.1.5. [Two Gates](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Two%20Gates)
+>          - 3.1.1.6. [More Logic Gate](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/More%20logic%20gates)
+>          - 3.1.1.7. [7420 Chip](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/7420)
+>          - 3.1.1.8. [Truth Table](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Truth%20Table)
+>          - 3.1.1.9. [Two Bit Equality](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Two-Bit%20Equality)
+>          - 3.1.1.10. [Sample Circuit A](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Sample%20Circuit%20A)
+>          - 3.1.1.11. [Sample Circuit B](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Sample%20circuit%20B)
+>          - 3.1.1.12. [Combine A and B](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Combine%20A%20and%20B)
+>          - 3.1.1.13. [Ring or Vibrate?](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Ring%20or%20Vibrate)
+>          - 3.1.1.14. [Thermostat](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Thermostat)
+>          - 3.1.1.15. [Population Counter](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Population%20Count)
+>          - 3.1.1.16. [Gate and Vector](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Gate%20and%20Vector)
+>          - 3.1.1.17. [Even Longer Vector](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Basic%20Gates/Even%20longer%20Vector)
+>              
+>          </details>
+>        - <details>
+>            <summary>3.1.2 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers"> <b>Multiplexer </b> </a> 🔻</summary>
+>          
+>          - 3.1.2.1. [2 to 1 Multiplexer](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/2%20to%201%20MUX)
+>          - 3.1.2.2. [2 to 1 Bus Multiplexer](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/2%20to%201%20Bus%20MUX)
+>          - 3.1.2.3. [9 to 1 Multiplexer](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/9%20to%201%20MUX)
+>          - 3.1.2.4. [256 to 1 MUX](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/256%20to%201%20MUX)
+>          - 3.1.2.5. [256 to 1 4-bit MUX ](https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Multiplexers/256%20to%201%204-bit%20MUX)
+>          
+>           
+>          </details>
+>        - <details>
+>            <summary>3.1.3 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/Arithemetic%20Circuits"> <b>Arithematic Circuits </b> </a> 🔻</summary>
+>          
+>          - 3.1.3.1. [Half Adder](<Circuits/Combinational Logic/Arithemetic Circuits/01. Half Adder>)
+>          - 3.1.3.2. [Full Adder](<Circuits/Combinational Logic/Arithemetic Circuits/02. Full Adder>)
+>          - 3.1.3.3. [3-bit Binary Adder](<Circuits/Combinational Logic/Arithemetic Circuits/03. 3-bit Binary Adder>)
+>          - 3.1.3.4. [Adder](<Circuits/Combinational Logic/Arithemetic Circuits/04. Adder>)
+>          - 3.1.3.5. [Signed Addition Overflow](<Circuits/Combinational Logic/Arithemetic Circuits/05. Signed addition Overflow>)
+>          - 3.1.3.6. [100-bit Binary Adder](<Circuits/Combinational Logic/Arithemetic Circuits/06. Adder 100>)
+>          - 3.1.3.7. [4-bit BCD Adder](<Circuits/Combinational Logic/Arithemetic Circuits/07. 4-bit BCD Adder>)
+>   
+>          </details>
+>        - <details>
+>            <summary>3.1.4 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Combinational%20Logic/K-maps%20to%20Circuit"> <b>K-Maps to Circuit </b> </a> 🔻</summary>
+>          
+>          - 3.1.4.1. [3 Variable](<Circuits/Combinational Logic/K-maps to Circuit/01. 3 Variable>)
+>          - 3.1.4.2. [4 Variable 1](<Circuits/Combinational Logic/K-maps to Circuit/02. 4 Variable 1>)
+>          - 3.1.4.3. [4 Variable 2](<Circuits/Combinational Logic/K-maps to Circuit/03. 4 Variavle 2>)
+>          - 3.1.4.4. [4 Variavle 3](<Circuits/Combinational Logic/K-maps to Circuit/04. 4 Variavle 3>)
+>          - 3.1.4.5. [Minimum SOP and POS](<Circuits/Combinational Logic/K-maps to Circuit/05. Minimum SOP and POS>)
+>          - 3.1.4.6. [K-Map 1](<Circuits/Combinational Logic/K-maps to Circuit/06. K-Map 1>)
+>          - 3.1.4.7. [K-Map 2](<Circuits/Combinational Logic/K-maps to Circuit/07. K-Map 2>)
+>          - 3.1.4.8. [K-Map implemented with MUX](<Circuits/Combinational Logic/K-maps to Circuit/08. K-map with MUX>)
+>          
+>          </details>
+> 
+>    
+>    - <details>
+>        <summary> 3.2. <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic"> <b>Sequential Logic </b> </a> 🔻 </summary>
+>     
+>        - <details>
+>            <summary>3.2.1 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/Latches%20and%20Flip-Flops"> <b>Latches and Flip-Flops </b> </a> 🔻 </summary>
+>          
+>          - 3.2.1.1. [D flip-flop](<Circuits/Sequential Logic/Latches and Flip-Flops/01. D Flip-Flop>)
+>          - 3.2.1.2. [D flip-flops](<Circuits/Sequential Logic/Latches and Flip-Flops/02. D Flip-Flops>)
+>          - 3.2.1.3. [DFF with Reset](<Circuits/Sequential Logic/Latches and Flip-Flops/03. D Flip-Flops with reset>)
+>          - 3.2.1.4. [DFF with Reset Value](<Circuits/Sequential Logic/Latches and Flip-Flops/04. D Flip-Flop with reset value>)
+>          - 3.2.1.5. [DFF with Asynchronous Reset](<Circuits/Sequential Logic/Latches and Flip-Flops/05. DFF with asynchronous reset>)
+>          - 3.2.1.6. [DFF with Enable](<Circuits/Sequential Logic/Latches and Flip-Flops/06. DFF with byte enable>)
+>          - 3.2.1.7. [D Latch](<Circuits/Sequential Logic/Latches and Flip-Flops/07. D Latch>)
+>          - 3.2.1.8. [DFF 1](<Circuits/Sequential Logic/Latches and Flip-Flops/08. DFF 1>)
+>          - 3.2.1.9. [DFF 2](<Circuits/Sequential Logic/Latches and Flip-Flops/09. DFF 2>)
+>          - 3.2.1.10. [DFF + Gate](<Circuits/Sequential Logic/Latches and Flip-Flops/10. DFF + Gate>) 
+>          - 3.2.1.11. [MUX + DFF 1](<Circuits/Sequential Logic/Latches and Flip-Flops/11. DFF and MUX>)
+>          - 3.2.1.12. [MUX + DFF 2](<Circuits/Sequential Logic/Latches and Flip-Flops/12. DFF and MUX 2>)
+>          - 3.2.1.13. [DFF and Gates](<Circuits/Sequential Logic/Latches and Flip-Flops/13. DFFs and Gates>)
+>          - 3.2.1.14. [Circuit from Truth Table](<Circuits/Sequential Logic/Latches and Flip-Flops/14. Circuit from Truth table>)
+>          - 3.2.1.15. [Detect an Edge](<Circuits/Sequential Logic/Latches and Flip-Flops/15. Positive edge>)
+>          - 3.2.1.16. [Detect Both Edge](<Circuits/Sequential Logic/Latches and Flip-Flops/16. Detect both Edges>)
+>          - 3.2.1.17. [Edge Capture Register](<Circuits/Sequential Logic/Latches and Flip-Flops/17. Edge Capture Register>)
+>          - 3.2.1.18. [Dual-edge Triggered Flip-flop](<Circuits/Sequential Logic/Latches and Flip-Flops/18. Dual Edge Triggered FF>)
+>          
+>          </details>
+>        - <details>
+>            <summary>3.2.2 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/Counters"> <b>Counters </b> </a> 🔻</summary>
+>          
+>          - 3.2.2.1. [Four-bit Counter](<Circuits/Sequential Logic/Counters/01. 4-Bit binart Counter>)
+>          - 3.2.2.2. [Decade Counter](<Circuits/Sequential Logic/Counters/02. Decade Counter>)
+>          - 3.2.2.3. [Decade Counter Again](<Circuits/Sequential Logic/Counters/03. Decade Counter Again>)
+>          - 3.2.2.4. [Slow Decade Counter](<Circuits/Sequential Logic/Counters/05. Slow Decade Counter>)
+>          - 3.2.2.5. [Counter 1-12](<Circuits/Sequential Logic/Counters/04. Counter 1-12>)
+>          - 3.2.2.6. [counter 1000](<Circuits/Sequential Logic/Counters/06. Counter 1000>)
+>          - 3.2.2.7. [4 digit Decimal Counter](<Circuits/Sequential Logic/Counters/07. 4-Digit Decimal Counter>)
+>          - 3.2.2.8. [12-hour Clock](<Circuits/Sequential Logic/Counters/08. 12-Hour Clock>)
+>          
+>           
+>          </details>
+>        - <details>
+>            <summary>3.2.3 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/Shift%20Register"> <b>Shift Registers </b> </a> 🔻</summary>
+>          
+>          - 3.2.3.1 [4-bit Shift Register](<Circuits/Sequential Logic/Shift Register/01. 4-bit Shifter>)
+>          - 3.2.3.2 [Left-Right Rotator](<Circuits/Sequential Logic/Shift Register/02. Left-Right Rotator>)
+>          - 3.2.3.3 [Left-Right Arithematic Shift by 1 or 8](<Circuits/Sequential Logic/Shift Register/03. Left-Right Arithemetic shifter>)
+>          - 3.2.3.4 [5-bit LFSR](<Circuits/Sequential Logic/Shift Register/04. 5-bit LFSR>)
+>          - 3.2.3.5 [3-bit LFSR](<Circuits/Sequential Logic/Shift Register/05. 3-bit LFSR>)
+>          - 3.2.3.6 [32-bit LFSR](<Circuits/Sequential Logic/Shift Register/06. 32-bit LFSR>)
+>          - 3.2.3.7 [Shift Register 1](<Circuits/Sequential Logic/Shift Register/07. Shift Register>)
+>          - 3.2.3.8 [Shift register 2](<Circuits/Sequential Logic/Shift Register/08. Shift Register>)
+>          - 3.2.3.9 [3 input LUT](<Circuits/Sequential Logic/Shift Register/09. 3-input LUT>)
+>          
+>   
+>          </details>
+>        - <details>
+>            <summary>3.2.4 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/More%20Circuits"> <b>More Circuits </b> </a> 🔻</summary>
+>          
+>          - 3.2.4.1. [Rule 90](<Circuits/Sequential Logic/More Circuits/1. Rule 90>)
+>          - 3.2.4.2. [Rule 110](<Circuits/Sequential Logic/More Circuits/2. Rule 110>)
+>          - 3.2.4.3. [Conways Game of Life 16X6]()
+>          
+>          </details>
+>        - <details>
+>            <summary>3.2.5 <a href="https://github.com/Nidhinchandran47/HDLbits-Solutions/tree/main/Circuits/Sequential%20Logic/FSM"> <b>Finite State Machines </b> </a> 🔻</summary>
+>          
+>          - 3.2.5.1. [Simple FSM 1 (async reset)](<Circuits/Sequential Logic/FSM/01. Simple FSM 1 (async reset)>)
+>          - 3.2.5.2. [Simple FSM 1 (sync reset)](<Circuits/Sequential Logic/FSM/02. Simple FSM 1 (sync reset)>)
+>          - 3.2.5.3. [Simple FSM 2 (async reset)](<Circuits/Sequential Logic/FSM/03. Simple FSM 2 (async reset)>)
+>          - 3.2.5.4. [Simple FSM 2 (sync reset)](<Circuits/Sequential Logic/FSM/04. Simple FSM 2 (sync reset)>)
+>          - 3.2.5.5. [Simple State Transition 3](<Circuits/Sequential Logic/FSM/05. Simple State Transition 3>)
+>          - 3.2.5.6. [One Hot FSM](<Circuits/Sequential Logic/FSM/06. One Hot FSM>)
+>          - 3.2.5.7. [Simple FSM 3 (async reset)](<Circuits/Sequential Logic/FSM/07. Simple FSM 3 (async reset)>)
+>          - 3.2.5.8. [Simple FSM 3 (sync reset)](<Circuits/Sequential Logic/FSM/08. Simple FSM 3 (sync reset)>)
+>          - 3.2.5.9. [Design a Moore FSM](<Circuits/Sequential Logic/FSM/09. Design a Moore FSM>)
+>          - 3.2.5.10. [Lemming 1](<Circuits/Sequential Logic/FSM/10. Lemming 1>)
+>          - 3.2.5.11. [Lemming 2](<Circuits/Sequential Logic/FSM/11. Lemming 2>)
+>          - 3.2.5.12. [Lemming 3](<Circuits/Sequential Logic/FSM/12. Lemming 3>)
+>          - 3.2.5.13. [Lemming 4](<Circuits/Sequential Logic/FSM/13. Lemmong 4>)
+>          - 3.2.5.14. [One Hot FSM](<Circuits/Sequential Logic/FSM/14. One Hot FSM>)
+>          - 3.2.5.15. [PS2 Packet Parser](<Circuits/Sequential Logic/FSM/15. PS2 Packet Parser>)
+>          - 3.2.5.16. [PS2 Packet Parser and Datapath](<Circuits/Sequential Logic/FSM/16. PS2 Packet Parser and Datapath>)
+>          - 3.2.5.17
+>          - 3.2.5.18
+>          - 3.2.5.19
+>          - 3.2.5.20
+>          - 3.2.5.21
+>          - 3.2.5.22
+>          - 3.2.5.23
+>          - 3.2.5.24
+>          
+>          
+>          </details>
+>   
+>    
+>    - <details>
+>        <summary> 3.3. <a href=""> <b>Building Larger Circuit </b> </a> 🔻 </summary>
+>      
+>        - 3.3.1. []()
+>        
+>    </details> 
+>       
+> 
+> 
+>   </details>
+> </details>
+> 
+> <details>
+>   <summary>4</summary>
+> 
+>   - <details>
+>     <summary>4.1</summary>
+>     
+>     - 4.1.1
+>   
+> - <details>
+>     <summary>4.2</summary>
+>     
+>     - 4.2.1
+>   
+>   </details>
+>   
+> </details>
 
 
 ## About HDL Bits 🧠
