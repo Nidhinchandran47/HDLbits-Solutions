@@ -23,3 +23,33 @@ Flag 01111110:
 Reset behaviour and error 01111111...:
 
 ![alt text](image-2.png)
+
+
+## Solution
+
+[**Verilog code**](solution.v)
+
+```mermaid
+stateDiagram-v2
+    [*] --> S0
+    S0 --> S0 : in = 0
+    S0 --> S1 : in = 1
+    S1 --> S0 : in = 0
+    S1 --> S2 : in = 1
+    S2 --> S0 : in = 0
+    S2 --> S3 : in = 1
+    S3 --> S0 : in = 0
+    S3 --> S4 : in = 1
+    S4 --> S0 : in = 0
+    S4 --> S5 : in = 1
+    S5 --> DI : in = 0
+    S5 --> S6 : in = 1
+    S6 --> FL : in = 0
+    S6 --> ER : in = 1
+    DI --> S0 : in = 0
+    DI --> S1 : in = 1
+    FL --> S0 : in = 0
+    FL --> S1 : in = 1
+    ER --> S0 : in = 0
+    ER --> ER : in = 1
+```
