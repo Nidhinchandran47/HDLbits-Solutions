@@ -14,3 +14,5 @@ stateDiagram-v2
     S2 --> S0 : in = 0 / out = 0
     S2 --> S1 : in = 1 / out = 1
 ```
+
+### [Solution](solution.v)
