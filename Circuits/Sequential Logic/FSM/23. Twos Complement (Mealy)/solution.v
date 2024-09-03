@@ -20,6 +20,6 @@
         endcase
     end
     
-    assign z = ((state == 1) && !x) || ((state == 0) && x);
+    assign z = (state && !x) || (!state && x);
 
 endmodule
